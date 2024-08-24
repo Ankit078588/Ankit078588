@@ -14,7 +14,7 @@
 
 ###
 
-## 🌐 Socials:
+### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-353b72319/) [![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/Ankit078588) 
 
