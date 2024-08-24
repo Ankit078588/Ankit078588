@@ -16,7 +16,7 @@
 
 ### Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-353b72319/) [![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/Ankit078588) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-353b72319/) [![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/Ankit078588) [![Hashnode](https://img.shields.io/badge/Hashnode-%2300A88F.svg?logo=hashnode&logoColor=white)](https://ankitwrites.hashnode.dev/)
 
  <br>
 <h2 align="left">Technical Skills</h2>
