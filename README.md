@@ -24,19 +24,19 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" height="40" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" height="40" alt="Express" />
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" height="40" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" height="40" alt="Redis" />
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" height="40" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman" height="40" alt="Postman" />
-  <img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest" height="40" alt="Jest" />
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" height="40" alt="AWS" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="40" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="40" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="40" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" height="40" alt="C++" />
-  <img src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code" height="40" alt="VSCode" />
+  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" height="35" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" height="35" alt="Express" />
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" height="35" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis" height="35" alt="Redis" />
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" height="35" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman" height="35" alt="Postman" />
+  <img src="https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest" height="35" alt="Jest" />
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" height="35" alt="AWS" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="35" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="35" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" height="35" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" height="35" alt="C++" />
+  <img src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code" height="35" alt="VSCode" />
 </div>
 
 ###
