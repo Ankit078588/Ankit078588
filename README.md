@@ -16,7 +16,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-353b72319/) [![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/Ankit078588) [![HashNode](https://img.shields.io/badge/Hashnode-blue?style=for-the-badge&logo=hashnode)](https://ankitwrites.hashnode.dev/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-353b72319/) [![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/Ankit078588) [![HashNode](https://img.shields.io/badge/Hashnode-blue.svg?logo=hashnode&logoColor=white](https://ankitwrites.hashnode.dev/)
 
 
 <h2 align="left">I code with</h2>
