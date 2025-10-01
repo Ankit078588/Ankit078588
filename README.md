@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi,%20I'm%20Ankit%20Kumar%20👋&fontSize=40&fontAlignY=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=200&section=header&text=Hi,%20I'm%20Ankit%20Kumar%20👋&fontSize=40&fontAlignY=35&fontColor=ffffff" />
 </p>
+
 
 <p align="center">
   🚀 FullStack Developer | Next.js | React.js | Node.js | TypeScript | PostgreSQL | MongoDB | AWS | Docker | Microservices  
