@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/1JKrjDg/github-banner.png" alt="banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi,%20I'm%20Ankit%20Kumar%20👋&fontSize=40&fontAlignY=35&fontColor=ffffff" />
 </p>
+
 
 <h1 align="center">👋 Hi, I'm Ankit Kumar</h1>
 
