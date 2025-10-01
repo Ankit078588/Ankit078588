@@ -16,7 +16,7 @@
 
 - 🔹 Passionate about **scalable systems, cloud infrastructure, and real-time apps**  
 - 🔹 Exploring how technologies really work under the hood  
-- 🔹 Focused on **Node.js, Distributed Systems, and Microservices**  
+- 🔹 Focused on **Next.js, React.js, Node.js, Distributed Systems, and Microservices**  
 
 ---
 
