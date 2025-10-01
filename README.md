@@ -60,6 +60,8 @@ I create **brainstorming videos** on software engineering topics, helping develo
   <a href="mailto:ankit.dev.78588@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   <a href="https://linkedin.com/in/ankit078588"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://github.com/Ankit078588"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://x.com/ankitwritess"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://www.youtube.com/@ankitwritess"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
 </p>  
 
 ---
