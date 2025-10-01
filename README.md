@@ -11,7 +11,7 @@ My focus is on **Node.js, distributed systems, and real-time applications**.
 
 - **Languages**: TypeScript, JavaScript  
 - **Frontend**: React.js, Next.js, Recoil, TailwindCSS, Framer Motion, ShadcnUI  
-- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL, Prisma, JWT, Joi  
+- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL, Prisma, JWT, Zod  
 - **Real-time & Messaging**: WebSockets, WebRTC, RabbitMQ, Kafka, Zookeeper, Pub/Sub  
 - **Cloud & DevOps**: AWS (EC2, S3, EKS, ECS, CloudFront, SES, IAM, Route53)
 - **CI/CD & Tools**: GitHub Actions, Docker, Kubernetes, Nginx, Redis, Postman, Git  
