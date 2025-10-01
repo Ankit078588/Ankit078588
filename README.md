@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi,%20I'm%20Ankit%20Kumar%20👋&fontSize=40&fontAlignY=35&fontColor=ffffff" />
 </p>
 
-
-<h1 align="center">👋 Hi, I'm Ankit Kumar</h1>
-
 <p align="center">
   🚀 FullStack Developer | Next.js | React.js | Node.js | TypeScript | PostgreSQL | MongoDB | AWS | Docker | Microservices  
 </p>
