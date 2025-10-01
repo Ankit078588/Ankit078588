@@ -1,13 +1,3 @@
-# 👋 Hi, I'm Ankit Kumar  
-
-🚀 Backend Developer | Node.js | TypeScript | MongoDB | AWS | Docker | Microservices  
-
-I love building **scalable backend systems**, working with cloud infrastructure, and exploring how technologies really work under the hood.  
-My focus is on **Node.js, distributed systems, and real-time applications**.  
-
-
-
-
 <!-- Banner -->
 <p align="center">
   <img src="https://i.ibb.co/1JKrjDg/github-banner.png" alt="banner" width="100%"/>
