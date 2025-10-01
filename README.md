@@ -39,7 +39,7 @@
 
 I create **brainstorming videos** on software engineering topics, helping developers unlock curiosity & understand how technologies work under the hood.  
 
-📺 [YouTube Channel](https://youtube.com)  
+📺 [YouTube Channel](https://www.youtube.com/@ankitwritess)  
 
 ---
 
