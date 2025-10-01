@@ -5,18 +5,7 @@
 I love building **scalable backend systems**, working with cloud infrastructure, and exploring how technologies really work under the hood.  
 My focus is on **Node.js, distributed systems, and real-time applications**.  
 
----
 
-## 🛠️ Tech Stack  
-
-- **Languages**: TypeScript, JavaScript  
-- **Frontend**: React.js, Next.js, Recoil, TailwindCSS, Framer Motion, ShadcnUI  
-- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL, Prisma, JWT, Zod  
-- **Real-time & Messaging**: WebSockets, WebRTC, RabbitMQ, Kafka, Zookeeper, Pub/Sub  
-- **Cloud & DevOps**: AWS (EC2, S3, EKS, ECS, CloudFront, SES, IAM, Route53)
-- **CI/CD & Tools**: GitHub Actions, Docker, Kubernetes, Nginx, Redis, Postman, Git  
-
----
 
 
 <!-- Banner -->
@@ -42,26 +31,12 @@ My focus is on **Node.js, distributed systems, and real-time applications**.
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=ts,js,cpp" height="50" />
-  <br/>
-
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="50" />
-  <br/>
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" height="50" />
-  <br/>
-
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,redis,nginx" height="50" />
-  <br/>
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="50" />
-</p>
+- **Languages**: TypeScript, JavaScript  
+- **Frontend**: React.js, Next.js, Recoil, TailwindCSS, Framer Motion, ShadcnUI  
+- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL, Prisma, JWT, Zod  
+- **Real-time & Messaging**: WebSockets, WebRTC, RabbitMQ, Kafka, Zookeeper, Pub/Sub  
+- **Cloud & DevOps**: AWS (EC2, S3, EKS, ECS, CloudFront, SES, IAM, Route53)
+- **CI/CD & Tools**: GitHub Actions, Docker, Kubernetes, Nginx, Redis, Postman, Git  
 
 ---
 
