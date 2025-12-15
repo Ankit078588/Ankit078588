@@ -41,11 +41,11 @@
 </p>
 
 #### Other Tools & Expertise
-- **AI / Vector Databases**: LangChain, Google Gemini, Pinecone  
-- **Messaging & Real-time**: RabbitMQ, Kafka, BullMQ, WebSockets, WebRTC  
+- **AI / Vector Databases**: LangChain, Google Gemini, Pinecone DB
+- **Messaging & Real-time**: RabbitMQ, Kafka, BullMQ, WebSockets 
 - **Databases & ORMs**: PostgreSQL, MongoDB, Prisma, Redis  
-- **DevOps & Infra**: Docker, Kubernetes, Nginx, GitHub Actions, AWS EC2  
-- **Testing & APIs**: Postman, REST APIs  
+- **DevOps & Infra**: Docker, Nginx, GitHub Actions, AWS(ECR, ECS, S3, Cloudfront, EC2, SES)
+- **Dev Tools**: Postman, Git & Github. 
 
 <br>
 
