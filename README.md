@@ -14,18 +14,19 @@
 
 ---
 
-## 1. About Me
+### 1. About Me
 
 - 🚀 Full-Stack Developer (Next.js, Node.js) focused on **scalable & production-ready systems**
 - 🧠 Hands-on experience with **GenAI / RAG systems** (LangChain, Pinecone, Gemini)
 - ☁️ Strong background in **AWS, Docker, CI/CD, and system deployment**
 - 💡 Passionate about understanding technologies **under the hood**, not just using them
 
----
+<br>
 
-## 2. Tech Stack
 
-### Core Technologies
+### 2. Tech Stack
+
+#### Core Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -39,16 +40,16 @@
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 </p>
 
-### Other Tools & Expertise
+#### Other Tools & Expertise
 - **AI / Vector Databases**: LangChain, Google Gemini, Pinecone  
 - **Messaging & Real-time**: RabbitMQ, Kafka, BullMQ, WebSockets, WebRTC  
 - **Databases & ORMs**: PostgreSQL, MongoDB, Prisma, Redis  
 - **DevOps & Infra**: Docker, Kubernetes, Nginx, GitHub Actions, AWS EC2  
 - **Testing & APIs**: Postman, REST APIs  
 
----
+<br>
 
-## 3. Experience & Project Highlights
+### 3. Experience & Project Highlights
 
 | Focus Area | Description | Links |
 |-----------|-------------|-------|
