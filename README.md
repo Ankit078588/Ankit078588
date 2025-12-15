@@ -25,14 +25,6 @@
 | **MLM Backend Platform** | Built a commission distribution engine for a scalable MLM platform using a binary tree hierarchy, **BullMQ** for automated weekly payouts, and integrated **Redis caching**. |
 
 ---
-
-## 🎯 What I'm Learning Next
-
-- ⚡ Deep dive into advanced patterns for **Microservices & Distributed Systems**.
-- 📡 Architecting and deploying **highly scalable real-time communication systems**.
-- ☁️ Mastering advanced **AWS & modern DevOps practices**.
-
----
 ## 🛠️ My Tech Stack
 
 ### Core Technologies
