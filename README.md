@@ -54,7 +54,7 @@
 |-----------|-------------|-------|
 | **GenAI / RAG System (ChatDoc)** | Built a RAG-based PDF chat system using **Typescript, Next.js, LangChain** and **Google Gemini**, handling document ingestion, chunking, embeddings, and semantic search with Pinecone. | [Live Demo](https://nextjs-chat-with-pdf.vercel.app/) |
 | **MLM Backend Platform** | Designed a scalable commission engine using a **binary tree hierarchy**, automated payouts with **BullMQ**, and deployed the system on **AWS EC2**. | [Live Platform](https://myudbhab.in/) |
-| **Scalable Video Streaming System** | Architected an event-driven AWS pipeline using **S3 & SQS**, deployed **Dockerized FFmpeg workers** for multi-resolution transcoding, and served content via **CloudFront CDN**. | N/A |
+| **Scalable Video Streaming System** | Architected an event-driven AWS pipeline using **S3 & SQS**, deployed **Dockerized FFmpeg workers** for multi-resolution transcoding, and served content via **CloudFront CDN**. |   |
 
 ---
 
