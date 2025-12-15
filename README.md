@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 </p>
 
-#### Other Tools & Expertise
 - **AI / Vector Databases**: LangChain, Google Gemini, Pinecone DB
 - **Messaging & Real-time**: RabbitMQ, Kafka, BullMQ, WebSockets 
 - **Databases & ORMs**: PostgreSQL, MongoDB, Prisma, Redis  
