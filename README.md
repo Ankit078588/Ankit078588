@@ -58,14 +58,6 @@
 
 ---
 
-## 🎯 What I’m Learning Next
-
-- ⚡ Advanced **Microservices & Distributed Systems** patterns  
-- 📡 Designing **high-scale real-time systems**
-- ☁️ Deep dive into **advanced AWS architecture & DevOps practices**
-
----
-
 ## 🎥 Content Creation
 
 I create **brainstorming videos** on software engineering topics, helping developers build deep intuition about how systems work internally.
