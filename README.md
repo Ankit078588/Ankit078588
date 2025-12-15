@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 1. About Me
 
 - 🚀 Full-Stack Developer (Next.js, Node.js) focused on **scalable & production-ready systems**
 - 🧠 Hands-on experience with **GenAI / RAG systems** (LangChain, Pinecone, Gemini)
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ My Tech Stack
+## 2. Tech Stack
 
 ### Core Technologies
 <p align="center">
@@ -48,7 +48,7 @@
 
 ---
 
-## ⚡ Experience & Project Highlights
+## 3. Experience & Project Highlights
 
 | Focus Area | Description | Links |
 |-----------|-------------|-------|
